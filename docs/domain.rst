@@ -3,7 +3,7 @@ Domain
 
 .. image:: _static/images/cartoon-domains.png
    :width: 200px
-   :align: left
+   :align: right
    :alt: multiple domains
 
 T-infinity is a multi-domain framework.
